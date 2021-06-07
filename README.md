@@ -2,7 +2,7 @@
 
 ## What
 
-In this repository, I use s seq2seq model which internally uses an Encoder-Decoder network with attention mechanism to achieve the task of Neural Machine Translation (NMT). Specifically, we try to do Spanish to English translation.   
+In this repository, I use a seq2seq model which internally uses an Encoder-Decoder network with attention mechanism to achieve the task of Neural Machine Translation (NMT). Specifically, we try to do Spanish to English translation.   
 The key idea of the attention mechanism is to establish direct short-cut connections between the target and the source by paying "attention" to relevant source content as we translate. A nice byproduct of the attention mechanism is an easy-to-visualize alignment matrix (annotation weights) between the source and target sentences
 
 ## Why
